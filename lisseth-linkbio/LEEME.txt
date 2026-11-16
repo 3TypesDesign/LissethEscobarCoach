@@ -1,0 +1,20 @@
+LINK-IN-BIO · LISSETH ESCOBAR
+================================
+
+Antes de subir al hosting, reemplaza estos 2 datos (usa Buscar y reemplazar):
+
+1. TU-DOMINIO.com        → el dominio real (ej. lissethescobar.com)
+   Aparece en: index.html, robots.txt y sitemap.xml
+2. [ENLACE DE AGENDA]    → link de Calendly / Acuity / WhatsApp para reservar
+   Aparece en: index.html (botón "Reservar mi sesión")
+
+Ya configurados: WhatsApp +1 (845) 321-1355 · Email lissethescobarcoach@gmail.com
+
+Subir TODO el contenido de esta carpeta a la raíz del dominio.
+
+Después de publicar:
+- Registrar el dominio en Google Search Console y enviar sitemap.xml
+- Probar la vista previa en https://developers.facebook.com/tools/debug/
+- Probar los datos estructurados en https://search.google.com/test/rich-results
+
+Las fuentes (carpeta fonts) tienen licencia SIL Open Font License: se pueden usar en la web libremente.
